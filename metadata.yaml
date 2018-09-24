@@ -1,11 +1,16 @@
 _repo: On-Mr-Spencer-s-Data-of-Ethics_56721
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56721-h/images/cover.jpg
 creator:
   author:
     agent_name: Guthrie, Malcolm
     gutenberg_agent_id: '49001'
     url: http://www.gutenberg.org/2009/agents/49001
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56721#On-Mr-Spencer-s-Data-of-Ethics
 gutenberg_issued: '2018-03-11'
 gutenberg_type: Text
 identifiers:
